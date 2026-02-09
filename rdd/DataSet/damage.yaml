@@ -1,0 +1,10 @@
+path: 'DataSet/'
+train: 'train/'
+val: 'val/'
+
+# class names
+names:
+  0: 'pothole'
+  1: 'alligator cracking'
+  2: 'lateral cracking'
+  3: 'longitudinal cracking'
